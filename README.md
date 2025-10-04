@@ -8,7 +8,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/Bode/Bode/actions"><img alt="Build Status" src="https://github.com/Bode/Bode/actions/workflows/tests.yaml/badge.svg" /></a>
     <a href="https://Bode-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
     <a href="https://discord.gg/Bode"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
     <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Bode/Bode?color=blueviolet" /></a>
@@ -166,5 +165,6 @@ Bode represents the future that Anatoly envisioned: a world where blockchain net
     <img src="https://contrib.rocks/image?repo=Bode/Bode" width="100%" />
   </a>
 </div>
+
 
 
