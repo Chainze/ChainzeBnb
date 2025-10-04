@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="170x" src="https://cdn.discordapp.com/attachments/1423078506786455674/1424123189088227519/ChatGPT_Image_Oct_4_2025_08_50_37_PM.png?ex=68e2cd93&is=68e17c13&hm=37f8526e29218f1800f29d72c388c0fdcd48cedd615d512e5518bd8e836680dd&" />
+  <img height="170x" src="https://cdn.discordapp.com/attachments/1415994670793756793/1424159190540222495/Screenshot_2025-10-04_231549.png?ex=68e2ef1a&is=68e19d9a&hm=45456092f51c7b9f64bcd98ebd8546ca3cd97b8973fe6e97053ab2a73128f849&" />
 
   <h1>Bode</h1>
 
   <p>
-    <strong>Unified Cross-Chain Program Framework</strong>
+    <strong>Unified Multi-Chain Program Framework for BNB Chain Ecosystem</strong>
   </p>
 
   <p>
@@ -16,30 +16,45 @@
 
 ## The Vision
 
-Bode realizes Anatoly Yakovenko's vision of a truly unified blockchain ecosystem. By bridging Solana and BNB Chain, Bode enables developers to create tokens and deploy programs across both networks using a single, unified API. Write once, deploy everywhere.
+Bode brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with Chainze and other BNB-based networks, Bode enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
 
 ## What is Bode?
 
-Bode is a groundbreaking framework that connects Solana and BNB Chain, providing developers with seamless tools for writing cross-chain programs and creating tokens on both networks simultaneously.
+Bode is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, Chainze, and other BNB-compatible networks simultaneously.
 
-- **Unified API**: One codebase deploys to both Solana and BNB Chain
-- **Cross-Chain Token Creation**: Create tokens on both networks with a single command
-- **Rust eDSL**: Familiar Solana-style development experience
-- **[IDL](https://en.wikipedia.org/wiki/Interface_description_language) specification**: Generate clients for both chains
+- **Unified API**: One codebase deploys to BNB Smart Chain, Chainze, and beyond
+- **Cross-Chain Token Creation**: Create BEP-20 tokens across multiple networks with a single command
+- **Rust & Solidity Support**: Leverage BNB Chain's EVM compatibility with modern development tools
+- **[IDL](https://en.wikipedia.org/wiki/Interface_description_language) specification**: Generate clients for all supported chains
 - **TypeScript package**: Type-safe clients from IDL for multi-chain interaction
 - **CLI and workspace management**: Complete cross-chain application development
 
-Bode is the first framework to truly unify Solana and BNB Chain development.
+Bode is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like Chainze.
 
 > [!NOTE]
-> Bode brings the best of both worlds: Solana's speed and BNB Chain's massive ecosystem. If you're familiar with Anchor, Truffle, or web3.js, you'll feel right at home with Bode's unified approach to cross-chain development.
+> Bode brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with Bode's unified approach to BNB ecosystem development.
 
 ## Key Features
 
-- **Single API, Dual Deployment**: Write your program once, deploy to both Solana and BNB Chain
-- **Unified Token Standard**: Create tokens that work seamlessly across both networks
-- **Cross-Chain State Management**: Synchronize state between Solana and BNB Chain
-- **Developer Experience**: Familiar Anchor-like syntax with cross-chain superpowers
+- **Single API, Multi-Chain Deployment**: Write your program once, deploy to BNB Smart Chain, Chainze, and other compatible networks
+- **Unified Token Standard**: Create BEP-20 tokens that work seamlessly across all BNB-based networks
+- **Cross-Chain State Management**: Synchronize state between BNB Smart Chain, Chainze, and Layer 2 solutions
+- **EVM Compatibility**: Full support for Ethereum tooling and smart contracts
+- **Developer Experience**: Familiar Ethereum-like syntax with BNB Chain optimizations and cross-chain superpowers
+- **Lightning Fast**: Leverage BNB Chain's 0.75s block times and 1.875s finality (2025)
+- **Ultra Low Fees**: Deploy and interact with ~$0.01 median gas fees
+
+## Why BNB Chain & Chainze?
+
+### BNB Smart Chain (2025 Performance)
+BNB Chain achieved remarkable improvements in 2025, reducing block times to 0.75 seconds and transaction finality to 1.875 seconds, while cutting malicious MEV attacks by 95% and dropping average gas fees to $0.01. The network handles 12.4 million daily transactions with peaks of 17.6 million transactions per day.
+
+### Chainze - Your Custom BNB-Based Blockchain
+Chainze leverages BNB Chain's infrastructure to provide:
+- **Custom Network Architecture**: Built on BNB Chain's proven technology
+- **Full EVM Compatibility**: Deploy any Ethereum smart contract
+- **BNB Ecosystem Integration**: Seamless bridging with BSC and other BNB networks
+- **Independent Governance**: Your own validator set and network rules
 
 ## Getting Started
 
@@ -52,7 +67,7 @@ To jump straight to examples, go [here](https://github.com/Bode/Bode/tree/master
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
 | `Bode-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/Bode-lang?color=blue)](https://crates.io/crates/Bode-lang)                     | [![Docs.rs](https://docs.rs/Bode-lang/badge.svg)](https://docs.rs/Bode-lang)                                |
-| `Bode-spl`            | CPI clients for SPL and BEP programs                     | [![crates](https://img.shields.io/crates/v/Bode-spl?color=blue)](https://crates.io/crates/Bode-spl)                          | [![Docs.rs](https://docs.rs/Bode-spl/badge.svg)](https://docs.rs/Bode-spl)                                  |
+| `Bode-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/Bode-bep?color=blue)](https://crates.io/crates/Bode-bep)                          | [![Docs.rs](https://docs.rs/Bode-bep/badge.svg)](https://docs.rs/Bode-bep)                                  |
 | `Bode-client`         | Rust client for Bode cross-chain programs              | [![crates](https://img.shields.io/crates/v/Bode-client?color=blue)](https://crates.io/crates/Bode-client)                    | [![Docs.rs](https://docs.rs/Bode-client/badge.svg)](https://docs.rs/Bode-client)                            |
 | `@Bode/sdk`           | TypeScript client for Bode programs                    | [![npm](https://img.shields.io/npm/v/@Bode/sdk.svg?color=blue)](https://www.npmjs.com/package/@Bode/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Bode.github.io/Bode/ts/index.html)        |
 | `@Bode/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@Bode/cli.svg?color=blue)](https://www.npmjs.com/package/@Bode/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Bode.github.io/Bode/cli/commands.html)    |
@@ -64,7 +79,63 @@ To jump straight to examples, go [here](https://github.com/Bode/Bode/tree/master
 
 ## Examples
 
-Here's a cross-chain counter program that deploys to both Solana and BNB Chain, where only the designated `authority` can increment the count on both networks:
+Here's a cross-chain counter program that deploys to both BNB Smart Chain and Chainze, where only the designated `authority` can increment the count on both networks:
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.19;
+
+import "@Bode/contracts/BodeMultiChain.sol";
+
+contract Counter is BodeMultiChain {
+    address public authority;
+    uint64 public count;
+
+    event CounterIncremented(uint64 newCount, uint256 chainId);
+    event CounterInitialized(address authority, uint64 startCount);
+
+    modifier onlyAuthority() {
+        require(msg.sender == authority, "Not authorized");
+        _;
+    }
+
+    function initialize(uint64 start) external {
+        require(authority == address(0), "Already initialized");
+        authority = msg.sender;
+        count = start;
+        emit CounterInitialized(authority, start);
+    }
+
+    function increment() external onlyAuthority {
+        count += 1;
+        emit CounterIncremented(count, block.chainid);
+        
+        // Sync to other chains
+        _syncToChainze(count);
+        _syncToBSC(count);
+    }
+
+    function getCount() external view returns (uint64) {
+        return count;
+    }
+}
+```
+
+### Creating Cross-Chain Tokens
+
+```bash
+# Create a BEP-20 token on both BNB Smart Chain and Chainze with one command
+Bode token create --name "MyToken" --symbol "MTK" --networks bsc,chainze
+
+# Deploy to both chains
+Bode deploy --target all
+
+# Deploy to specific networks
+Bode deploy --target bsc
+Bode deploy --target chainze
+```
+
+### Rust Alternative (for non-EVM programs)
 
 ```rust
 use Bode_lang::prelude::*;
@@ -111,52 +182,81 @@ pub struct Counter {
 }
 ```
 
-### Creating Cross-Chain Tokens
-
-```bash
-# Create a token on both Solana and BNB Chain with one command
-Bode token create --name "MyToken" --symbol "MTK" --networks solana,bnb
-
-# Deploy to both chains
-Bode deploy --target all
-```
-
-For more, see the [examples](https://github.com/Bode/Bode/tree/master/examples)
-and [tests](https://github.com/Bode/Bode/tree/master/tests) directories.
+For more, see the [examples](https://github.com/Bode/Bode/tree/master/examples) and [tests](https://github.com/Bode/Bode/tree/master/tests) directories.
 
 ## Architecture
 
-Bode uses a unified runtime that translates your program logic into native operations for both Solana and BNB Chain. The framework handles:
+Bode uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, Chainze, and other BNB-compatible networks. The framework handles:
 
-- **Cross-chain account management**: Seamless state synchronization
-- **Token bridging**: Automatic token creation and management across both chains
-- **Transaction routing**: Intelligent routing to the appropriate network
-- **Unified wallet integration**: Single wallet interface for both chains
+- **Cross-chain account management**: Seamless state synchronization across BNB networks
+- **Token bridging**: Automatic BEP-20 token creation and management across all chains
+- **Transaction routing**: Intelligent routing to the appropriate network with optimal gas fees
+- **Unified wallet integration**: Single wallet interface for BNB Smart Chain, Chainze, and beyond
+- **MEV Protection**: Integrated protection against malicious MEV attacks (95% reduction on BSC)
+- **Gas Optimization**: Leverage BNB Chain's gasless transactions and stablecoin fee payments
+
+## 2025 BNB Chain Performance
+
+In 2025, BNB Chain achieved significant performance milestones including 0.75-second block times, processing up to 17.6 million daily transactions, with transaction fees reduced to approximately $0.01. The network aims to increase the block gas limit to 1 billion by late 2025, enabling up to 5,000 DEX swaps per second.
 
 ## Roadmap
 
-- [ ] Enhanced cross-chain messaging
-- [ ] Native DEX integration
-- [ ] Advanced bridge mechanics
-- [ ] Support for additional chains
-- [ ] Cross-chain NFT standards
+### Current (2025)
+- [x] BNB Smart Chain integration
+- [x] Chainze network support
+- [x] EVM-compatible smart contracts
+- [x] Cross-chain token creation
+- [x] MEV protection integration
+
+### Coming Soon
+- [ ] Enhanced cross-chain messaging with BNB Greenfield
+- [ ] Native DEX integration (PancakeSwap, Venus Protocol)
+- [ ] Advanced bridge mechanics with Canonical Bridge
+- [ ] Support for opBNB (Layer 2)
+- [ ] Cross-chain NFT standards (BEP-721/BEP-1155)
+- [ ] AI-powered development tools (BNB Chain AI Code Copilot)
+- [ ] Privacy features integration (2026 roadmap)
+
+### 2026 Vision
+Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms finality, native privacy features, and CEX-grade performance.
+
+## Supported Networks
+
+- **BNB Smart Chain (BSC)**: The main EVM-compatible chain
+- **Chainze**: Your custom BNB-based blockchain
+- **opBNB**: BNB Chain's Layer 2 solution (coming soon)
+- **BNB Greenfield**: Decentralized storage integration (coming soon)
+
+## Why Choose Bode?
+
+### For Developers
+- **Familiar Tools**: Use Hardhat, Truffle, Remix, or any Ethereum tooling
+- **Lower Costs**: Deploy and test with minimal fees (~$0.01 per transaction)
+- **Faster Development**: EVM compatibility means instant migration from Ethereum
+- **Cross-Chain by Default**: Build once, deploy everywhere in the BNB ecosystem
+
+### For Projects
+- **Massive Ecosystem**: Tap into BNB Chain's 200+ million users
+- **Cost Efficiency**: Save 99% on gas fees compared to Ethereum mainnet
+- **Speed**: 0.75s block times for near-instant confirmations
+- **Security**: 95% reduction in MEV attacks, battle-tested infrastructure
 
 ## License
 
 Bode is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in Bode by you, as defined in the Apache-2.0 license, shall be
-licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Bode by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
 Thank you for your interest in contributing to Bode!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
-## The Future is Cross-Chain
+## The Future is Multi-Chain
 
-Bode represents the future that Anatoly envisioned: a world where blockchain networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of multiple ecosystems through a single, unified interface.
+Bode represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
+
+With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, Bode is positioned to be the go-to framework for BNB ecosystem development.
 
 ### Thanks ❤️
 
@@ -166,5 +266,12 @@ Bode represents the future that Anatoly envisioned: a world where blockchain net
   </a>
 </div>
 
+---
 
+## Resources
 
+- [BNB Chain Official Documentation](https://docs.bnbchain.org/)
+- [BNB Chain 2025 Tech Roadmap](https://www.bnbchain.org/en/blog/bnb-chain-tech-roadmap-2025)
+- [Chainze Network Documentation](#) (Add your Chainze docs here)
+- [BNB Chain Builder Support Programs](https://www.bnbchain.org/en/programs)
+- [BSC GitHub Repository](https://github.com/bnb-chain/bsc)
