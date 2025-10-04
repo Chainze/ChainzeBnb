@@ -1,26 +1,26 @@
 <div align="center">
   <img height="170x" src="https://cdn.discordapp.com/attachments/1415994670793756793/1424159190540222495/Screenshot_2025-10-04_231549.png?ex=68e2ef1a&is=68e19d9a&hm=45456092f51c7b9f64bcd98ebd8546ca3cd97b8973fe6e97053ab2a73128f849&" />
 
-  <h1>Bode</h1>
+  <h1>Chainze</h1>
 
   <p>
     <strong>Unified Multi-Chain Program Framework for BNB Chain Ecosystem</strong>
   </p>
 
   <p>
-    <a href="https://Bode-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/Bode"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Bode/Bode?color=blueviolet" /></a>
+    <a href="https://Chainze-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/Chainze"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Chainze/Chainze?color=blueviolet" /></a>
   </p>
 </div>
 
 ## The Vision
 
-Bode brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with Chainze and other BNB-based networks, Bode enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
+Chainze brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with Chainze and other BNB-based networks, Chainze enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
 
-## What is Bode?
+## What is Chainze?
 
-Bode is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, Chainze, and other BNB-compatible networks simultaneously.
+Chainze is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, Chainze, and other BNB-compatible networks simultaneously.
 
 - **Unified API**: One codebase deploys to BNB Smart Chain, Chainze, and beyond
 - **Cross-Chain Token Creation**: Create BEP-20 tokens across multiple networks with a single command
@@ -29,10 +29,10 @@ Bode is a groundbreaking framework built for the BNB Chain ecosystem, providing 
 - **TypeScript package**: Type-safe clients from IDL for multi-chain interaction
 - **CLI and workspace management**: Complete cross-chain application development
 
-Bode is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like Chainze.
+Chainze is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like Chainze.
 
 > [!NOTE]
-> Bode brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with Bode's unified approach to BNB ecosystem development.
+> Chainze brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with Chainze's unified approach to BNB ecosystem development.
 
 ## Key Features
 
@@ -58,23 +58,23 @@ Chainze leverages BNB Chain's infrastructure to provide:
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [Bode book](https://book.Bode-lang.com) and the [Bode documentation](https://Bode-lang.com).
+For a quickstart guide and in-depth tutorials, see the [Chainze book](https://book.Chainze-lang.com) and the [Chainze documentation](https://Chainze-lang.com).
 
-To jump straight to examples, go [here](https://github.com/Bode/Bode/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Bode-lang) and the [typedoc](https://www.Bode-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/Chainze/Chainze/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Chainze-lang) and the [typedoc](https://www.Chainze-lang.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `Bode-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/Bode-lang?color=blue)](https://crates.io/crates/Bode-lang)                     | [![Docs.rs](https://docs.rs/Bode-lang/badge.svg)](https://docs.rs/Bode-lang)                                |
-| `Bode-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/Bode-bep?color=blue)](https://crates.io/crates/Bode-bep)                          | [![Docs.rs](https://docs.rs/Bode-bep/badge.svg)](https://docs.rs/Bode-bep)                                  |
-| `Bode-client`         | Rust client for Bode cross-chain programs              | [![crates](https://img.shields.io/crates/v/Bode-client?color=blue)](https://crates.io/crates/Bode-client)                    | [![Docs.rs](https://docs.rs/Bode-client/badge.svg)](https://docs.rs/Bode-client)                            |
-| `@Bode/sdk`           | TypeScript client for Bode programs                    | [![npm](https://img.shields.io/npm/v/@Bode/sdk.svg?color=blue)](https://www.npmjs.com/package/@Bode/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Bode.github.io/Bode/ts/index.html)        |
-| `@Bode/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@Bode/cli.svg?color=blue)](https://www.npmjs.com/package/@Bode/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Bode.github.io/Bode/cli/commands.html)    |
+| `Chainze-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/Chainze-lang?color=blue)](https://crates.io/crates/Chainze-lang)                     | [![Docs.rs](https://docs.rs/Chainze-lang/badge.svg)](https://docs.rs/Chainze-lang)                                |
+| `Chainze-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/Chainze-bep?color=blue)](https://crates.io/crates/Chainze-bep)                          | [![Docs.rs](https://docs.rs/Chainze-bep/badge.svg)](https://docs.rs/Chainze-bep)                                  |
+| `Chainze-client`         | Rust client for Chainze cross-chain programs              | [![crates](https://img.shields.io/crates/v/Chainze-client?color=blue)](https://crates.io/crates/Chainze-client)                    | [![Docs.rs](https://docs.rs/Chainze-client/badge.svg)](https://docs.rs/Chainze-client)                            |
+| `@Chainze/sdk`           | TypeScript client for Chainze programs                    | [![npm](https://img.shields.io/npm/v/@Chainze/sdk.svg?color=blue)](https://www.npmjs.com/package/@Chainze/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Chainze.github.io/Chainze/ts/index.html)        |
+| `@Chainze/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@Chainze/cli.svg?color=blue)](https://www.npmjs.com/package/@Chainze/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Chainze.github.io/Chainze/cli/commands.html)    |
 
 ## Note
 
-- **Bode is in active development, so all APIs are subject to change.**
+- **Chainze is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
 
 ## Examples
@@ -85,9 +85,9 @@ Here's a cross-chain counter program that deploys to both BNB Smart Chain and Ch
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-import "@Bode/contracts/BodeMultiChain.sol";
+import "@Chainze/contracts/ChainzeMultiChain.sol";
 
-contract Counter is BodeMultiChain {
+contract Counter is ChainzeMultiChain {
     address public authority;
     uint64 public count;
 
@@ -125,20 +125,20 @@ contract Counter is BodeMultiChain {
 
 ```bash
 # Create a BEP-20 token on both BNB Smart Chain and Chainze with one command
-Bode token create --name "MyToken" --symbol "MTK" --networks bsc,chainze
+Chainze token create --name "MyToken" --symbol "MTK" --networks bsc,chainze
 
 # Deploy to both chains
-Bode deploy --target all
+Chainze deploy --target all
 
 # Deploy to specific networks
-Bode deploy --target bsc
-Bode deploy --target chainze
+Chainze deploy --target bsc
+Chainze deploy --target chainze
 ```
 
 ### Rust Alternative (for non-EVM programs)
 
 ```rust
-use Bode_lang::prelude::*;
+use Chainze_lang::prelude::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
@@ -182,11 +182,11 @@ pub struct Counter {
 }
 ```
 
-For more, see the [examples](https://github.com/Bode/Bode/tree/master/examples) and [tests](https://github.com/Bode/Bode/tree/master/tests) directories.
+For more, see the [examples](https://github.com/Chainze/Chainze/tree/master/examples) and [tests](https://github.com/Chainze/Chainze/tree/master/tests) directories.
 
 ## Architecture
 
-Bode uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, Chainze, and other BNB-compatible networks. The framework handles:
+Chainze uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, Chainze, and other BNB-compatible networks. The framework handles:
 
 - **Cross-chain account management**: Seamless state synchronization across BNB networks
 - **Token bridging**: Automatic BEP-20 token creation and management across all chains
@@ -227,7 +227,7 @@ Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms final
 - **opBNB**: BNB Chain's Layer 2 solution (coming soon)
 - **BNB Greenfield**: Decentralized storage integration (coming soon)
 
-## Why Choose Bode?
+## Why Choose Chainze?
 
 ### For Developers
 - **Familiar Tools**: Use Hardhat, Truffle, Remix, or any Ethereum tooling
@@ -243,26 +243,26 @@ Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms final
 
 ## License
 
-Bode is licensed under [Apache 2.0](./LICENSE).
+Chainze is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Bode by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Chainze by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to Bode!
+Thank you for your interest in contributing to Chainze!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 ## The Future is Multi-Chain
 
-Bode represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
+Chainze represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
 
-With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, Bode is positioned to be the go-to framework for BNB ecosystem development.
+With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, Chainze is positioned to be the go-to framework for BNB ecosystem development.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/Bode/Bode/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Bode/Bode" width="100%" />
+  <a href="https://github.com/Chainze/Chainze/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Chainze/Chainze" width="100%" />
   </a>
 </div>
 
@@ -275,3 +275,4 @@ With BNB Chain's commitment to improving transaction speed, streamlining user ex
 - [Chainze Network Documentation](#) (Add your Chainze docs here)
 - [BNB Chain Builder Support Programs](https://www.bnbchain.org/en/programs)
 - [BSC GitHub Repository](https://github.com/bnb-chain/bsc)
+
