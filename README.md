@@ -4,7 +4,7 @@
   <h1>Forked Coin</h1>
 
   <p>
-    <strong>Unified Multi-Chain Program Framework for BNB Chain Ecosystem</strong>
+    <strong>The Bnb Fork Cz Wanted Made</strong>
   </p>
 
   <p>
@@ -275,6 +275,7 @@ With BNB Chain's commitment to improving transaction speed, streamlining user ex
 - [Forked Coin Network Documentation](#) (Add your Forked Coin docs here)
 - [BNB Chain Builder Support Programs](https://www.bnbchain.org/en/programs)
 - [BSC GitHub Repository](https://github.com/bnb-chain/bsc)
+
 
 
 
