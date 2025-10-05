@@ -1,56 +1,56 @@
 <div align="center">
   <img height="170x" src="https://cdn.discordapp.com/attachments/1415994670793756793/1424159190540222495/Screenshot_2025-10-04_231549.png?ex=68e2ef1a&is=68e19d9a&hm=45456092f51c7b9f64bcd98ebd8546ca3cd97b8973fe6e97053ab2a73128f849&" />
 
-  <h1>Chainze</h1>
+  <h1>memechain</h1>
 
   <p>
     <strong>Unified Multi-Chain Program Framework for BNB Chain Ecosystem</strong>
   </p>
 
   <p>
-    <a href="https://Chainze-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/Chainze"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Chainze/Chainze?color=blueviolet" /></a>
+    <a href="https://memechain-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/memechain"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/memechain/memechain?color=blueviolet" /></a>
   </p>
 </div>
 
 ## The Vision
 
-Chainze brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with Chainze and other BNB-based networks, Chainze enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
+memechain brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with memechain and other BNB-based networks, memechain enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
 
-## What is Chainze?
+## What is memechain?
 
-Chainze is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, Chainze, and other BNB-compatible networks simultaneously.
+memechain is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, memechain, and other BNB-compatible networks simultaneously.
 
-- **Unified API**: One codebase deploys to BNB Smart Chain, Chainze, and beyond
+- **Unified API**: One codebase deploys to BNB Smart Chain, memechain, and beyond
 - **Cross-Chain Token Creation**: Create BEP-20 tokens across multiple networks with a single command
 - **Rust & Solidity Support**: Leverage BNB Chain's EVM compatibility with modern development tools
 - **[IDL](https://en.wikipedia.org/wiki/Interface_description_language) specification**: Generate clients for all supported chains
 - **TypeScript package**: Type-safe clients from IDL for multi-chain interaction
 - **CLI and workspace management**: Complete cross-chain application development
 
-Chainze is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like Chainze.
+memechain is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like memechain.
 
 > [!NOTE]
-> Chainze brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with Chainze's unified approach to BNB ecosystem development.
+> memechain brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with memechain's unified approach to BNB ecosystem development.
 
 ## Key Features
 
-- **Single API, Multi-Chain Deployment**: Write your program once, deploy to BNB Smart Chain, Chainze, and other compatible networks
+- **Single API, Multi-Chain Deployment**: Write your program once, deploy to BNB Smart Chain, memechain, and other compatible networks
 - **Unified Token Standard**: Create BEP-20 tokens that work seamlessly across all BNB-based networks
-- **Cross-Chain State Management**: Synchronize state between BNB Smart Chain, Chainze, and Layer 2 solutions
+- **Cross-Chain State Management**: Synchronize state between BNB Smart Chain, memechain, and Layer 2 solutions
 - **EVM Compatibility**: Full support for Ethereum tooling and smart contracts
 - **Developer Experience**: Familiar Ethereum-like syntax with BNB Chain optimizations and cross-chain superpowers
 - **Lightning Fast**: Leverage BNB Chain's 0.75s block times and 1.875s finality (2025)
 - **Ultra Low Fees**: Deploy and interact with ~$0.01 median gas fees
 
-## Why BNB Chain & Chainze?
+## Why BNB Chain & memechain?
 
 ### BNB Smart Chain (2025 Performance)
 BNB Chain achieved remarkable improvements in 2025, reducing block times to 0.75 seconds and transaction finality to 1.875 seconds, while cutting malicious MEV attacks by 95% and dropping average gas fees to $0.01. The network handles 12.4 million daily transactions with peaks of 17.6 million transactions per day.
 
-### Chainze - Your Custom BNB-Based Blockchain
-Chainze leverages BNB Chain's infrastructure to provide:
+### memechain - Your Custom BNB-Based Blockchain
+memechain leverages BNB Chain's infrastructure to provide:
 - **Custom Network Architecture**: Built on BNB Chain's proven technology
 - **Full EVM Compatibility**: Deploy any Ethereum smart contract
 - **BNB Ecosystem Integration**: Seamless bridging with BSC and other BNB networks
@@ -58,36 +58,36 @@ Chainze leverages BNB Chain's infrastructure to provide:
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [Chainze book](https://book.Chainze-lang.com) and the [Chainze documentation](https://Chainze-lang.com).
+For a quickstart guide and in-depth tutorials, see the [memechain book](https://book.memechain-lang.com) and the [memechain documentation](https://memechain-lang.com).
 
-To jump straight to examples, go [here](https://github.com/Chainze/Chainze/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Chainze-lang) and the [typedoc](https://www.Chainze-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/memechain/memechain/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/memechain-lang) and the [typedoc](https://www.memechain-lang.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `Chainze-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/Chainze-lang?color=blue)](https://crates.io/crates/Chainze-lang)                     | [![Docs.rs](https://docs.rs/Chainze-lang/badge.svg)](https://docs.rs/Chainze-lang)                                |
-| `Chainze-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/Chainze-bep?color=blue)](https://crates.io/crates/Chainze-bep)                          | [![Docs.rs](https://docs.rs/Chainze-bep/badge.svg)](https://docs.rs/Chainze-bep)                                  |
-| `Chainze-client`         | Rust client for Chainze cross-chain programs              | [![crates](https://img.shields.io/crates/v/Chainze-client?color=blue)](https://crates.io/crates/Chainze-client)                    | [![Docs.rs](https://docs.rs/Chainze-client/badge.svg)](https://docs.rs/Chainze-client)                            |
-| `@Chainze/sdk`           | TypeScript client for Chainze programs                    | [![npm](https://img.shields.io/npm/v/@Chainze/sdk.svg?color=blue)](https://www.npmjs.com/package/@Chainze/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Chainze.github.io/Chainze/ts/index.html)        |
-| `@Chainze/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@Chainze/cli.svg?color=blue)](https://www.npmjs.com/package/@Chainze/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Chainze.github.io/Chainze/cli/commands.html)    |
+| `memechain-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/memechain-lang?color=blue)](https://crates.io/crates/memechain-lang)                     | [![Docs.rs](https://docs.rs/memechain-lang/badge.svg)](https://docs.rs/memechain-lang)                                |
+| `memechain-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/memechain-bep?color=blue)](https://crates.io/crates/memechain-bep)                          | [![Docs.rs](https://docs.rs/memechain-bep/badge.svg)](https://docs.rs/memechain-bep)                                  |
+| `memechain-client`         | Rust client for memechain cross-chain programs              | [![crates](https://img.shields.io/crates/v/memechain-client?color=blue)](https://crates.io/crates/memechain-client)                    | [![Docs.rs](https://docs.rs/memechain-client/badge.svg)](https://docs.rs/memechain-client)                            |
+| `@memechain/sdk`           | TypeScript client for memechain programs                    | [![npm](https://img.shields.io/npm/v/@memechain/sdk.svg?color=blue)](https://www.npmjs.com/package/@memechain/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://memechain.github.io/memechain/ts/index.html)        |
+| `@memechain/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@memechain/cli.svg?color=blue)](https://www.npmjs.com/package/@memechain/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://memechain.github.io/memechain/cli/commands.html)    |
 
 ## Note
 
-- **Chainze is in active development, so all APIs are subject to change.**
+- **memechain is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
 
 ## Examples
 
-Here's a cross-chain counter program that deploys to both BNB Smart Chain and Chainze, where only the designated `authority` can increment the count on both networks:
+Here's a cross-chain counter program that deploys to both BNB Smart Chain and memechain, where only the designated `authority` can increment the count on both networks:
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-import "@Chainze/contracts/ChainzeMultiChain.sol";
+import "@memechain/contracts/memechainMultiChain.sol";
 
-contract Counter is ChainzeMultiChain {
+contract Counter is memechainMultiChain {
     address public authority;
     uint64 public count;
 
@@ -111,7 +111,7 @@ contract Counter is ChainzeMultiChain {
         emit CounterIncremented(count, block.chainid);
         
         // Sync to other chains
-        _syncToChainze(count);
+        _syncTomemechain(count);
         _syncToBSC(count);
     }
 
@@ -124,21 +124,21 @@ contract Counter is ChainzeMultiChain {
 ### Creating Cross-Chain Tokens
 
 ```bash
-# Create a BEP-20 token on both BNB Smart Chain and Chainze with one command
-Chainze token create --name "MyToken" --symbol "MTK" --networks bsc,chainze
+# Create a BEP-20 token on both BNB Smart Chain and memechain with one command
+memechain token create --name "MyToken" --symbol "MTK" --networks bsc,memechain
 
 # Deploy to both chains
-Chainze deploy --target all
+memechain deploy --target all
 
 # Deploy to specific networks
-Chainze deploy --target bsc
-Chainze deploy --target chainze
+memechain deploy --target bsc
+memechain deploy --target memechain
 ```
 
 ### Rust Alternative (for non-EVM programs)
 
 ```rust
-use Chainze_lang::prelude::*;
+use memechain_lang::prelude::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
@@ -182,16 +182,16 @@ pub struct Counter {
 }
 ```
 
-For more, see the [examples](https://github.com/Chainze/Chainze/tree/master/examples) and [tests](https://github.com/Chainze/Chainze/tree/master/tests) directories.
+For more, see the [examples](https://github.com/memechain/memechain/tree/master/examples) and [tests](https://github.com/memechain/memechain/tree/master/tests) directories.
 
 ## Architecture
 
-Chainze uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, Chainze, and other BNB-compatible networks. The framework handles:
+memechain uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, memechain, and other BNB-compatible networks. The framework handles:
 
 - **Cross-chain account management**: Seamless state synchronization across BNB networks
 - **Token bridging**: Automatic BEP-20 token creation and management across all chains
 - **Transaction routing**: Intelligent routing to the appropriate network with optimal gas fees
-- **Unified wallet integration**: Single wallet interface for BNB Smart Chain, Chainze, and beyond
+- **Unified wallet integration**: Single wallet interface for BNB Smart Chain, memechain, and beyond
 - **MEV Protection**: Integrated protection against malicious MEV attacks (95% reduction on BSC)
 - **Gas Optimization**: Leverage BNB Chain's gasless transactions and stablecoin fee payments
 
@@ -203,7 +203,7 @@ In 2025, BNB Chain achieved significant performance milestones including 0.75-se
 
 ### Current (2025)
 - [x] BNB Smart Chain integration
-- [x] Chainze network support
+- [x] memechain network support
 - [x] EVM-compatible smart contracts
 - [x] Cross-chain token creation
 - [x] MEV protection integration
@@ -223,11 +223,11 @@ Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms final
 ## Supported Networks
 
 - **BNB Smart Chain (BSC)**: The main EVM-compatible chain
-- **Chainze**: Your custom BNB-based blockchain
+- **memechain**: Your custom BNB-based blockchain
 - **opBNB**: BNB Chain's Layer 2 solution (coming soon)
 - **BNB Greenfield**: Decentralized storage integration (coming soon)
 
-## Why Choose Chainze?
+## Why Choose memechain?
 
 ### For Developers
 - **Familiar Tools**: Use Hardhat, Truffle, Remix, or any Ethereum tooling
@@ -243,26 +243,26 @@ Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms final
 
 ## License
 
-Chainze is licensed under [Apache 2.0](./LICENSE).
+memechain is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Chainze by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in memechain by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to Chainze!
+Thank you for your interest in contributing to memechain!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 ## The Future is Multi-Chain
 
-Chainze represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
+memechain represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
 
-With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, Chainze is positioned to be the go-to framework for BNB ecosystem development.
+With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, memechain is positioned to be the go-to framework for BNB ecosystem development.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/Chainze/Chainze/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Chainze/Chainze" width="100%" />
+  <a href="https://github.com/memechain/memechain/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=memechain/memechain" width="100%" />
   </a>
 </div>
 
@@ -272,7 +272,8 @@ With BNB Chain's commitment to improving transaction speed, streamlining user ex
 
 - [BNB Chain Official Documentation](https://docs.bnbchain.org/)
 - [BNB Chain 2025 Tech Roadmap](https://www.bnbchain.org/en/blog/bnb-chain-tech-roadmap-2025)
-- [Chainze Network Documentation](#) (Add your Chainze docs here)
+- [memechain Network Documentation](#) (Add your memechain docs here)
 - [BNB Chain Builder Support Programs](https://www.bnbchain.org/en/programs)
 - [BSC GitHub Repository](https://github.com/bnb-chain/bsc)
+
 
