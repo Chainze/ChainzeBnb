@@ -12,7 +12,7 @@ module.exports = {
   moduleFileExtensions: ["ts", "js", "json", "node"],
   testEnvironment: "node",
   globals: {
-    "ts-jest": {
+    "ts-jest": {d
       diagnostics: false,
     },
   },
