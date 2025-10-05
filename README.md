@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170x" src="https://cdn.discordapp.com/attachments/1415994670793756793/1424159190540222495/Screenshot_2025-10-04_231549.png?ex=68e2ef1a&is=68e19d9a&hm=45456092f51c7b9f64bcd98ebd8546ca3cd97b8973fe6e97053ab2a73128f849&" />
+  <img height="170x" src="https://cdn.discordapp.com/attachments/1423078506786455674/1424210514552164362/image.png?ex=68e31ee7&is=68e1cd67&hm=799441ddc95db28d2731b521d4497dd5176e8a913880e33a2a7de1266e49b9e0&" />
 
   <h1>memechain</h1>
 
@@ -275,5 +275,6 @@ With BNB Chain's commitment to improving transaction speed, streamlining user ex
 - [memechain Network Documentation](#) (Add your memechain docs here)
 - [BNB Chain Builder Support Programs](https://www.bnbchain.org/en/programs)
 - [BSC GitHub Repository](https://github.com/bnb-chain/bsc)
+
 
 
