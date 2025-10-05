@@ -1,56 +1,56 @@
 <div align="center">
-  <img height="170x" src="https://cdn.discordapp.com/attachments/1423078506786455674/1424210514552164362/image.png?ex=68e31ee7&is=68e1cd67&hm=799441ddc95db28d2731b521d4497dd5176e8a913880e33a2a7de1266e49b9e0&" />
+  <img height="170x" src=https://cdn.discordapp.com/attachments/1421957855048634521/1424461131992268810/ChatGPT_Image_Oct_5_2025_07_06_32_PM.png?ex=68e4084f&is=68e2b6cf&hm=e3524ead38cd7681a424b76b8da89014e7acff90247d16cdc4e56952e78716b9& />
 
-  <h1>memechain</h1>
+  <h1>Forked Coin</h1>
 
   <p>
     <strong>Unified Multi-Chain Program Framework for BNB Chain Ecosystem</strong>
   </p>
 
   <p>
-    <a href="https://memechain-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/memechain"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/memechain/memechain?color=blueviolet" /></a>
+    <a href="https://Forked Coin-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/Forked Coin"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Forked Coin/Forked Coin?color=blueviolet" /></a>
   </p>
 </div>
 
 ## The Vision
 
-memechain brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with memechain and other BNB-based networks, memechain enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
+Forked Coin brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with Forked Coin and other BNB-based networks, Forked Coin enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
 
-## What is memechain?
+## What is Forked Coin?
 
-memechain is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, memechain, and other BNB-compatible networks simultaneously.
+Forked Coin is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, Forked Coin, and other BNB-compatible networks simultaneously.
 
-- **Unified API**: One codebase deploys to BNB Smart Chain, memechain, and beyond
+- **Unified API**: One codebase deploys to BNB Smart Chain, Forked Coin, and beyond
 - **Cross-Chain Token Creation**: Create BEP-20 tokens across multiple networks with a single command
 - **Rust & Solidity Support**: Leverage BNB Chain's EVM compatibility with modern development tools
 - **[IDL](https://en.wikipedia.org/wiki/Interface_description_language) specification**: Generate clients for all supported chains
 - **TypeScript package**: Type-safe clients from IDL for multi-chain interaction
 - **CLI and workspace management**: Complete cross-chain application development
 
-memechain is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like memechain.
+Forked Coin is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like Forked Coin.
 
 > [!NOTE]
-> memechain brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with memechain's unified approach to BNB ecosystem development.
+> Forked Coin brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with Forked Coin's unified approach to BNB ecosystem development.
 
 ## Key Features
 
-- **Single API, Multi-Chain Deployment**: Write your program once, deploy to BNB Smart Chain, memechain, and other compatible networks
+- **Single API, Multi-Chain Deployment**: Write your program once, deploy to BNB Smart Chain, Forked Coin, and other compatible networks
 - **Unified Token Standard**: Create BEP-20 tokens that work seamlessly across all BNB-based networks
-- **Cross-Chain State Management**: Synchronize state between BNB Smart Chain, memechain, and Layer 2 solutions
+- **Cross-Chain State Management**: Synchronize state between BNB Smart Chain, Forked Coin, and Layer 2 solutions
 - **EVM Compatibility**: Full support for Ethereum tooling and smart contracts
 - **Developer Experience**: Familiar Ethereum-like syntax with BNB Chain optimizations and cross-chain superpowers
 - **Lightning Fast**: Leverage BNB Chain's 0.75s block times and 1.875s finality (2025)
 - **Ultra Low Fees**: Deploy and interact with ~$0.01 median gas fees
 
-## Why BNB Chain & memechain?
+## Why BNB Chain & Forked Coin?
 
 ### BNB Smart Chain (2025 Performance)
 BNB Chain achieved remarkable improvements in 2025, reducing block times to 0.75 seconds and transaction finality to 1.875 seconds, while cutting malicious MEV attacks by 95% and dropping average gas fees to $0.01. The network handles 12.4 million daily transactions with peaks of 17.6 million transactions per day.
 
-### memechain - Your Custom BNB-Based Blockchain
-memechain leverages BNB Chain's infrastructure to provide:
+### Forked Coin - Your Custom BNB-Based Blockchain
+Forked Coin leverages BNB Chain's infrastructure to provide:
 - **Custom Network Architecture**: Built on BNB Chain's proven technology
 - **Full EVM Compatibility**: Deploy any Ethereum smart contract
 - **BNB Ecosystem Integration**: Seamless bridging with BSC and other BNB networks
@@ -58,36 +58,36 @@ memechain leverages BNB Chain's infrastructure to provide:
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [memechain book](https://book.memechain-lang.com) and the [memechain documentation](https://memechain-lang.com).
+For a quickstart guide and in-depth tutorials, see the [Forked Coin book](https://book.Forked Coin-lang.com) and the [Forked Coin documentation](https://Forked Coin-lang.com).
 
-To jump straight to examples, go [here](https://github.com/memechain/memechain/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/memechain-lang) and the [typedoc](https://www.memechain-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/Forked Coin/Forked Coin/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Forked Coin-lang) and the [typedoc](https://www.Forked Coin-lang.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `memechain-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/memechain-lang?color=blue)](https://crates.io/crates/memechain-lang)                     | [![Docs.rs](https://docs.rs/memechain-lang/badge.svg)](https://docs.rs/memechain-lang)                                |
-| `memechain-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/memechain-bep?color=blue)](https://crates.io/crates/memechain-bep)                          | [![Docs.rs](https://docs.rs/memechain-bep/badge.svg)](https://docs.rs/memechain-bep)                                  |
-| `memechain-client`         | Rust client for memechain cross-chain programs              | [![crates](https://img.shields.io/crates/v/memechain-client?color=blue)](https://crates.io/crates/memechain-client)                    | [![Docs.rs](https://docs.rs/memechain-client/badge.svg)](https://docs.rs/memechain-client)                            |
-| `@memechain/sdk`           | TypeScript client for memechain programs                    | [![npm](https://img.shields.io/npm/v/@memechain/sdk.svg?color=blue)](https://www.npmjs.com/package/@memechain/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://memechain.github.io/memechain/ts/index.html)        |
-| `@memechain/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@memechain/cli.svg?color=blue)](https://www.npmjs.com/package/@memechain/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://memechain.github.io/memechain/cli/commands.html)    |
+| `Forked Coin-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/Forked Coin-lang?color=blue)](https://crates.io/crates/Forked Coin-lang)                     | [![Docs.rs](https://docs.rs/Forked Coin-lang/badge.svg)](https://docs.rs/Forked Coin-lang)                                |
+| `Forked Coin-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/Forked Coin-bep?color=blue)](https://crates.io/crates/Forked Coin-bep)                          | [![Docs.rs](https://docs.rs/Forked Coin-bep/badge.svg)](https://docs.rs/Forked Coin-bep)                                  |
+| `Forked Coin-client`         | Rust client for Forked Coin cross-chain programs              | [![crates](https://img.shields.io/crates/v/Forked Coin-client?color=blue)](https://crates.io/crates/Forked Coin-client)                    | [![Docs.rs](https://docs.rs/Forked Coin-client/badge.svg)](https://docs.rs/Forked Coin-client)                            |
+| `@Forked Coin/sdk`           | TypeScript client for Forked Coin programs                    | [![npm](https://img.shields.io/npm/v/@Forked Coin/sdk.svg?color=blue)](https://www.npmjs.com/package/@Forked Coin/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Forked Coin.github.io/Forked Coin/ts/index.html)        |
+| `@Forked Coin/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@Forked Coin/cli.svg?color=blue)](https://www.npmjs.com/package/@Forked Coin/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Forked Coin.github.io/Forked Coin/cli/commands.html)    |
 
 ## Note
 
-- **memechain is in active development, so all APIs are subject to change.**
+- **Forked Coin is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
 
 ## Examples
 
-Here's a cross-chain counter program that deploys to both BNB Smart Chain and memechain, where only the designated `authority` can increment the count on both networks:
+Here's a cross-chain counter program that deploys to both BNB Smart Chain and Forked Coin, where only the designated `authority` can increment the count on both networks:
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-import "@memechain/contracts/memechainMultiChain.sol";
+import "@Forked Coin/contracts/Forked CoinMultiChain.sol";
 
-contract Counter is memechainMultiChain {
+contract Counter is Forked CoinMultiChain {
     address public authority;
     uint64 public count;
 
@@ -111,7 +111,7 @@ contract Counter is memechainMultiChain {
         emit CounterIncremented(count, block.chainid);
         
         // Sync to other chains
-        _syncTomemechain(count);
+        _syncToForked Coin(count);
         _syncToBSC(count);
     }
 
@@ -124,21 +124,21 @@ contract Counter is memechainMultiChain {
 ### Creating Cross-Chain Tokens
 
 ```bash
-# Create a BEP-20 token on both BNB Smart Chain and memechain with one command
-memechain token create --name "MyToken" --symbol "MTK" --networks bsc,memechain
+# Create a BEP-20 token on both BNB Smart Chain and Forked Coin with one command
+Forked Coin token create --name "MyToken" --symbol "MTK" --networks bsc,Forked Coin
 
 # Deploy to both chains
-memechain deploy --target all
+Forked Coin deploy --target all
 
 # Deploy to specific networks
-memechain deploy --target bsc
-memechain deploy --target memechain
+Forked Coin deploy --target bsc
+Forked Coin deploy --target Forked Coin
 ```
 
 ### Rust Alternative (for non-EVM programs)
 
 ```rust
-use memechain_lang::prelude::*;
+use Forked Coin_lang::prelude::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
@@ -182,16 +182,16 @@ pub struct Counter {
 }
 ```
 
-For more, see the [examples](https://github.com/memechain/memechain/tree/master/examples) and [tests](https://github.com/memechain/memechain/tree/master/tests) directories.
+For more, see the [examples](https://github.com/Forked Coin/Forked Coin/tree/master/examples) and [tests](https://github.com/Forked Coin/Forked Coin/tree/master/tests) directories.
 
 ## Architecture
 
-memechain uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, memechain, and other BNB-compatible networks. The framework handles:
+Forked Coin uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, Forked Coin, and other BNB-compatible networks. The framework handles:
 
 - **Cross-chain account management**: Seamless state synchronization across BNB networks
 - **Token bridging**: Automatic BEP-20 token creation and management across all chains
 - **Transaction routing**: Intelligent routing to the appropriate network with optimal gas fees
-- **Unified wallet integration**: Single wallet interface for BNB Smart Chain, memechain, and beyond
+- **Unified wallet integration**: Single wallet interface for BNB Smart Chain, Forked Coin, and beyond
 - **MEV Protection**: Integrated protection against malicious MEV attacks (95% reduction on BSC)
 - **Gas Optimization**: Leverage BNB Chain's gasless transactions and stablecoin fee payments
 
@@ -203,7 +203,7 @@ In 2025, BNB Chain achieved significant performance milestones including 0.75-se
 
 ### Current (2025)
 - [x] BNB Smart Chain integration
-- [x] memechain network support
+- [x] Forked Coin network support
 - [x] EVM-compatible smart contracts
 - [x] Cross-chain token creation
 - [x] MEV protection integration
@@ -223,11 +223,11 @@ Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms final
 ## Supported Networks
 
 - **BNB Smart Chain (BSC)**: The main EVM-compatible chain
-- **memechain**: Your custom BNB-based blockchain
+- **Forked Coin**: Your custom BNB-based blockchain
 - **opBNB**: BNB Chain's Layer 2 solution (coming soon)
 - **BNB Greenfield**: Decentralized storage integration (coming soon)
 
-## Why Choose memechain?
+## Why Choose Forked Coin?
 
 ### For Developers
 - **Familiar Tools**: Use Hardhat, Truffle, Remix, or any Ethereum tooling
@@ -243,26 +243,26 @@ Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms final
 
 ## License
 
-memechain is licensed under [Apache 2.0](./LICENSE).
+Forked Coin is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in memechain by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Forked Coin by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to memechain!
+Thank you for your interest in contributing to Forked Coin!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 ## The Future is Multi-Chain
 
-memechain represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
+Forked Coin represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
 
-With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, memechain is positioned to be the go-to framework for BNB ecosystem development.
+With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, Forked Coin is positioned to be the go-to framework for BNB ecosystem development.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/memechain/memechain/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=memechain/memechain" width="100%" />
+  <a href="https://github.com/Forked Coin/Forked Coin/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Forked Coin/Forked Coin" width="100%" />
   </a>
 </div>
 
@@ -272,9 +272,10 @@ With BNB Chain's commitment to improving transaction speed, streamlining user ex
 
 - [BNB Chain Official Documentation](https://docs.bnbchain.org/)
 - [BNB Chain 2025 Tech Roadmap](https://www.bnbchain.org/en/blog/bnb-chain-tech-roadmap-2025)
-- [memechain Network Documentation](#) (Add your memechain docs here)
+- [Forked Coin Network Documentation](#) (Add your Forked Coin docs here)
 - [BNB Chain Builder Support Programs](https://www.bnbchain.org/en/programs)
 - [BSC GitHub Repository](https://github.com/bnb-chain/bsc)
+
 
 
 
